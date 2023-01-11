@@ -1,5 +1,6 @@
 To get node modules
 
 enter 
-"npm install express"
+step1:"npm install"
+step2:"npm start"
 in terminal
